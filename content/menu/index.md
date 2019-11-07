@@ -3,7 +3,16 @@ headless: true
 bookMenuLevels: 1
 ---
 
- - [**Example Site**]({{< relref "/docs/example" >}})
+ -[Algorithms]({{< relref "/docs/treemaps/algorithms" >}})
+ -[Datasets]({{< relref "/docs/treemaps/datasets" >}})
+ -[Runs]({{< relref "/docs/treemaps/runs" >}})
+ -[Metrics]({{< relref "/docs/treemaps/metrics" >}})
+ -[Visualizations]({{< relref "/docs/treemaps/vis/" >}})  
+   -[1. KDE plots]({{< relref "/docs/treemaps/vis/kde" >}})
+   -[2. Videos]({{< relref "/docs/treemaps/vis/videos" >}})
+
+
+ <!-- - [**Example Site**]({{< relref "/docs/example" >}})
  - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
    - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
    - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
@@ -18,4 +27,4 @@ bookMenuLevels: 1
  - [Katex]({{< relref "/docs/shortcodes/katex" >}})
  - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
  - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})  
- - [**Blog**]({{< relref "/posts" >}})
+ - [**Blog**]({{< relref "/posts" >}}) -->
