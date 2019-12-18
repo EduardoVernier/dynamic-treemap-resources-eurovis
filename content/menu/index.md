@@ -6,11 +6,6 @@ bookMenuLevels: 1
  -[Algorithms]({{< relref "/docs/treemaps/algorithms" >}})
  -[Datasets]({{< relref "/docs/treemaps/datasets" >}})
  -[Runs]({{< relref "/docs/treemaps/runs" >}})
- -[Metrics]({{< relref "/docs/treemaps/metrics" >}})
- -[Visualizations]({{< relref "/docs/treemaps/vis/" >}})  
-   -[1. KDE plots]({{< relref "/docs/treemaps/vis/kde" >}})
-   -[2. Videos]({{< relref "/docs/treemaps/vis/videos" >}})
-
 
  <!-- - [**Example Site**]({{< relref "/docs/example" >}})
  - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
