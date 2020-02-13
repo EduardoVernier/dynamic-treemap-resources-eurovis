@@ -6,6 +6,7 @@ bookMenuLevels: 1
  -[Algorithms]({{< relref "/docs/treemaps/algorithms" >}})
  -[Datasets]({{< relref "/docs/treemaps/datasets" >}})
  -[Runs]({{< relref "/docs/treemaps/runs" >}})
+ -[Figures]({{< relref "/docs/treemaps/figures" >}})
 
  <!-- - [**Example Site**]({{< relref "/docs/example" >}})
  - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
