@@ -4,7 +4,7 @@ weight: 1
 ---
 # Algorithms
 
-The implementations of the algorithms can be found at the follwoing repository: https://github.com/tue-aga/TreemapComparison .
+The implementations of the algorithms can be found at the following repository: https://github.com/tue-aga/TreemapComparison .
 
 This repository contains the source code and data used for the paper: "Quantitative Comparison of Time-Dependent Treemaps". It heavily borrows from the source code from the paper "Stable Treemaps via Local Moves".
 
@@ -26,25 +26,24 @@ Algorithms implemented:
 
 Very brief explanation of Main classes.
 
-```Visualiser```: Use to gain a visual interface showing a treemap for the datasets for all algorithms.
+`Visualiser`: Use to gain a visual interface showing a treemap for the datasets for all algorithms.
 Can specify additional treemaps in gui.java
 
-```DataSetClassifier```: Use to classify additional datasets.
+`DataSetClassifier`: Use to classify additional datasets.
 
-```StatisticalParser```: Use to generate the matrix table for all processed datasets.
+`StatisticalParser`: Use to generate the matrix table for all processed datasets.
 
-```BaseLineGenerator```: Use to manually generate baselines for the specified folders.
+`BaseLineGenerator`: Use to manually generate baselines for the specified folders.
 
-```Simulator```: Use to generated treemaps for a folder of datasets.
+`Simulator`: Use to generated treemaps for a folder of datasets.
 
-```IpeImporter```: Use to visualise a .rect file as outputed from Simulator.
-
+`IpeImporter`: Use to visualise a .rect file as outputed from Simulator.
 
 
 Pipeline for experiments:
-1. Use ```Simulator``` to generate treemaps with -baseline enabled for baselines.
-2. Use ```DataSetClassifier``` to classify the datasets.
-3. Use ```StatisticalParse``` to generate the matrix plots and statistics.
+1. Use `Simulator` to generate treemaps with -baseline enabled for baselines.
+2. Use `DataSetClassifier` to classify the datasets.
+3. Use `StatisticalParse` to generate the matrix plots and statistics.
 
 <!--
 The implemented techniques are:
