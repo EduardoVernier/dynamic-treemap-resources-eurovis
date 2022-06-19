@@ -5,7 +5,7 @@ weight: 2
 # Datasets
 
 
-All datasets are available for download at https://drive.google.com/drive/folders/1_9QEmO6RUIDmS0iQAW555C6z467lkyCV?usp=sharing or through the tables and links below.
+All datasets are available for download at https://drive.google.com/file/d/1df5PyaN8bQ8C_rDezLJhdjlWn5f1K0b4/view?usp=sharing.
 
 
 
