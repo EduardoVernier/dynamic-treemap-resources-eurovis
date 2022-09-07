@@ -8,7 +8,6 @@ weight: 2
 All datasets are available for download at https://drive.google.com/file/d/1df5PyaN8bQ8C_rDezLJhdjlWn5f1K0b4/view?usp=sharing.
 
 
-
 |               |                       |                              | Low weight variance              |                                |                              | High weight variance             |                                |
 |:--------------|:----------------------|:-----------------------------|:---------------------------------|:-------------------------------|:-----------------------------|:---------------------------------|:-------------------------------|
 |               |                       | Low insertions and deletions | Regular insertions and deletions | Spiky insertions and deletions | Low insertions and deletions | Regular insertions and deletions | Spiky insertions and deletions |
